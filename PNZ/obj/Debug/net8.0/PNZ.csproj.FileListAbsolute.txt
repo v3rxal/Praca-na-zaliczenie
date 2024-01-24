@@ -1,0 +1,14 @@
+C:\Users\Валик\Desktop\PNZ\PNZ\bin\Debug\net8.0\PNZ.exe
+C:\Users\Валик\Desktop\PNZ\PNZ\bin\Debug\net8.0\PNZ.deps.json
+C:\Users\Валик\Desktop\PNZ\PNZ\bin\Debug\net8.0\PNZ.runtimeconfig.json
+C:\Users\Валик\Desktop\PNZ\PNZ\bin\Debug\net8.0\PNZ.dll
+C:\Users\Валик\Desktop\PNZ\PNZ\bin\Debug\net8.0\PNZ.pdb
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\PNZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\PNZ.AssemblyInfoInputs.cache
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\PNZ.AssemblyInfo.cs
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\PNZ.csproj.CoreCompileInputs.cache
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\PNZ.dll
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\refint\PNZ.dll
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\PNZ.pdb
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\PNZ.genruntimeconfig.cache
+C:\Users\Валик\Desktop\PNZ\PNZ\obj\Debug\net8.0\ref\PNZ.dll
